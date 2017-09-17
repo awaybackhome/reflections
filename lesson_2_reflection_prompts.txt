@@ -1,0 +1,17 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	When you initialize a repository, you are activating it as a git
+	repository. However, this does that mean any files are being tracked
+	at this point. This just means, you have created a working directory.
+	Without initialization, you will not be able, however, to
+	track commits ie -- add commits to your repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	The staging area is an area where you can select certain files you want
+	to include in the commit that will be sent to the repository.
+	This differs from the working area where you see and interact with the files
+	in a directory. Not all files need to be tracked and thus removed from the 
+	repository or commit in git. If you were to clone the git, only the files that
+	made it to the staging area would be included. This offers more control and
+	organization over what you with to commit. 
