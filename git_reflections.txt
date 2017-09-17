@@ -1,0 +1,5 @@
+This file is for my overall Git reflections or thoughts:
+
+1. FUck.. I forget what I was going to write. 
+2. Ah.. I forgot one of the commands to open up more detailed logs
+	when using git i.e., git log

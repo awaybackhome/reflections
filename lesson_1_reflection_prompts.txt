@@ -1,0 +1,55 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It removed everything that wasn't different, 
+    then placed them together in an easy to see and compare format.
+
+    I used diff -u old_file.xxx new_file.xxx for mac on terminal.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can see now ideas are used and improved over the course of development. 
+    It could make you a better program to see the pattern. 
+    See what works well and what had to be changed. 
+    Possibly even see why code had to be changed. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Well, a computer cannot detect a logically change 
+    or the completion of a separate issue. Humans can do this 
+    since it's for other humans 
+    - hopefully making it easier to work through the history.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Except for the obvious reasons I'm not too sure. The files are dependent
+    on each other, so it seems logical a copy of each should be saved together.
+
+    I'm not sure if updates to co-dependent files are automatic. I doubt it now
+    that I type it. If not, it's obvious this is the best advantage when going
+    back to look at the files. For ex. Why aren't things working anymore? You can
+    go back and see if one co-dependent file wasn't adjusted accordingly. Or
+    more easily detect this. Which makes me wonder if you can run past sets of 
+    files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log lists all the change points or commits. and diff allows you to use the
+    commit IDs to compare 2. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can always go back or easily see the changes made between previous commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   	Well, I kind of want to fix the asteroid game first just for fun. 
+   	It probably makes perfect sense to start a website on it. 
+   	I guess this exercise almost wants me to conclude you can use it for
+   	anything. You can also experiment with other people's work.
