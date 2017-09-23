@@ -15,3 +15,8 @@ How is the staging area different from the working directory and the repository?
 	repository or commit in git. If you were to clone the git, only the files that
 	made it to the staging area would be included. This offers more control and
 	organization over what you with to commit. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Your staging area shows you everything that will commit. You can review what's there
+	to ensure it is relevant to only one logical change.
