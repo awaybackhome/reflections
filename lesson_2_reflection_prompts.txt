@@ -30,4 +30,19 @@ How do the diagrams help you visualize the branch structure?
 	Well, a diagram can show you where the branches are and which aren't
 	accessible. But for some reasons on my asteroid git, there were no
 	branches.... even when I used git log --graph and even --oneline
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	My result was a conflict but I resolved it. It was good because lesson 3 allowed
+	me to learn how to understand conflicts and fix them. 
+
+	Merging branches sifts through code and removes what is clearly unnecessary, adds anything new,
+	and questions you about conflicting lines of code.
+
+	If you're refering to --graph, I guess it's representing in the diagram 
+	in such a way to demonstrate clarity. To show what previous commits are added into where.
+
+	On the coursework graph, it's to show merge's function in relation to commit and branch. A merge becomes
+	a new branch and new commit once completed.  
 	
