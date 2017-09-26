@@ -26,7 +26,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Not only can you see what others have added, you can merge that into your master and
+    update the remote origin. It can also show you how much progress has been made since,
+    you personally worked on the repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
