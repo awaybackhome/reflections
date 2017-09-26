@@ -6,7 +6,9 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    It's a way to stay more organized in module form. Although git commit should
+    do this for you, you wouldn't want your workspace being modified by others
+    while you work on something.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
