@@ -37,12 +37,25 @@ the diagram the way we do?
 	My result was a conflict but I resolved it. It was good because lesson 3 allowed
 	me to learn how to understand conflicts and fix them. 
 
-	Merging branches sifts through code and removes what is clearly unnecessary, adds anything new,
+	Merging branches sifts through code and removes what is clearly unnecessary, 
+	adds anything new,
 	and questions you about conflicting lines of code.
 
 	If you're refering to --graph, I guess it's representing in the diagram 
-	in such a way to demonstrate clarity. To show what previous commits are added into where.
+	in such a way to demonstrate clarity. To show what previous commits are 
+	added into where.
 
-	On the coursework graph, it's to show merge's function in relation to commit and branch. A merge becomes
-	a new branch and new commit once completed.  
+	On the coursework graph, it's to show merge's function in relation 
+	to commit and branch. A merge becomes a new branch and new commit once completed.  
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+	So far, I haven't seen the real cons of automatic merging since it's a conservative
+	function. It only automatically updates areas that are obstensibly new or removed.
+	Any areas that confict with this are brought to the user's attention to manually
+	adjust. To do a merge completely manually would be tidious, but possibly better for
+	code review. Then again, it can open up the possibility for more human error.
+
+	Concl: Merge is a beautiful feature. 
 	
