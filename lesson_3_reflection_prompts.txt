@@ -44,4 +44,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Master is all about maintaining a working copy, so you'd most likely be fixing bugs
+    as they are discovered in master or working towards an end goal by adding the next
+    planned module. A separate branch would be for those times someone gets a new idea.
+    If you want to experiment or improve upon an already working module in the code, or
+    even shift the paradiagm of code in a new direction, a branch would be the best way
+    to go. 
